@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm currently new to programming, and I'm working on learning Object-Oriented-Programming.
+My pronouns are (He/Him) 👨 
 <!--
 **psistack/psistack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
